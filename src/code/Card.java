@@ -8,9 +8,9 @@ import javafx.scene.shape.Shape;
 
 
 public class Card extends Rectangle {
-	private String suit;
-	private String rank;
-	private String color;
+	private String Javisuit;
+	private String Javirank;
+	private String Javicolor;
 	private Image cardImage;
 	private Shape cardObj;
 	private String id;

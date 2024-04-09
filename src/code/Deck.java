@@ -3,7 +3,7 @@ package code;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Deck {
+public class JavisDeck {
 	private ArrayList<Card> deckStack = new ArrayList<>();
 	private String[] ranks = {"a","2","3","4","5","6","7","8","9","10","j","q","k"};
 	private String[] suits = {"c","d","h","s"};
